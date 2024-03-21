@@ -37,6 +37,21 @@ export const achievementData = {
             date : 'jan, 2024',
             field : '',
             image : four
+        },
+        {
+            id : 5,
+            title : 'Knight at leetcode',
+            details : 'Leetcode rating 1860',
+            date : '',
+            field : '',
+            image : 'https://leetcode.com/static/images/LeetCode_Sharing.png'
+        },{
+            id : 5,
+            title : 'Codechef 4 star',
+            details : 'Codechef rating 1802',
+            date : '',
+            field : '',
+            image : 'https://repository-images.githubusercontent.com/389157855/a2869f47-24d9-4e16-a6cc-b944855dc5f7'
         }
 
     ]

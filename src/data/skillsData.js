@@ -5,6 +5,11 @@
    'canva',
     'Figma',
     'React',
+    'Next JS',
+    'Node JS',
+    'Express JS',
+    'MongoDB',
+    'MySQL',
     'Dart',
     'Flutter',
     'Firebase',
@@ -16,6 +21,9 @@
     'C++',
     'Python',
     'Java',
+    ' Markdown',
+    'Matlab',
+    'Varilog HDL'
     
     
 ]
