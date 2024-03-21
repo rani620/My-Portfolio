@@ -20,4 +20,18 @@ export const experienceData = [
         startYear: 'May 2023',
         endYear: 'July 2023'
     },
+    {
+        id: 4,
+        company: 'Hackslash Coding Club',
+        jobtitle: 'Project Lead',
+        startYear: 'May 2023',
+        endYear: 'Present'
+    },
+    {
+        id: 5,
+        company: 'Pratibimb NITP Magazine',
+        jobtitle: 'Design Lead',
+        startYear: 'Jan-2022',
+        endYear: 'Present'
+    },
 ]

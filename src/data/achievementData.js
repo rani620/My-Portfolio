@@ -1,3 +1,7 @@
+import three from '../assets/imagea/image_a1.png'
+import two from '../assets/imagea/image_a2.png'
+import four from '../assets/imagea/image_a3.jpeg'
+
 export const achievementData = {
     bio : "Achievement is the culmination of dedication, effort, and perseverance toward a specific goal. It's a testament to human capability and an embodiment of the power of determination. Throughout history, achievements have shaped societies, driven innovation, and inspired generations. Whether it's a personal triumph or a collective milestone, the path to achievement is a transformative journey that leaves an indelible mark on individuals and communities alike.",
     achievements : [
@@ -15,15 +19,24 @@ export const achievementData = {
             details : 'We comes under the top 50 team across all over the globe.',
             date : 'NOV 20 , 2022',
             field : '',
-            image : 'https://www.hacksquad.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsticker.7771700c.jpg&w=750&q=75'
+            image : two
         },
         {
             id : 3,
             title : 'Beta Microsoft Learn Student Ambassador',
             details : 'I am the part of globle biggest community',
-            date : 'june, 2020',
+            date : 'june, 2023',
             field : '',
-            image : 'https://miro.medium.com/v2/resize:fit:450/1*-iWcUbquAdt1uQZahiuDIg.jpeg'
+            image : three
+        },
+
+        {
+            id : 4,
+            title : 'Finalist of RBI Policy Challenge',
+            details : 'Represent the State of Bihar  at zonal round in Kolkata',
+            date : 'jan, 2024',
+            field : '',
+            image : four
         }
 
     ]

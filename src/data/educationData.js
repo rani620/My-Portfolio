@@ -18,6 +18,6 @@ export const educationData = [
         institution: 'D.V.Girls, Chittaranjan',
         course: 'Matric      96%',
         startYear: '2018',
-        endYear: ''
+        endYear: '2018'
     },
 ]
